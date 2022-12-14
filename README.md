@@ -18,6 +18,22 @@ Then open your browser and go to: [http://localhost:5173](http://localhost:5173)
 Head over to [appwrite.io](https://appwrite.io) to get started, then update
 the `src/providers/api.tsx` file with your project id and endpoint.
 
+## Vite
+[Vite](https://vitejs.dev/) for development and bundling. This template was created
+using `$ yarn create vite react-vite-appwrite --template react-ts` and also uses
+[vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) for file/folder based routing.
+
+## ChakraUI
+[ChakraUI](https://chakra-ui.com/) has a nice set of components for the UI
+
+## Formik
+[Formik](https://formik.org/) for handling forms in a nice way.
+
+## Yup
+[Yup](https://github.com/jquense/yup) for dead simple Object schema based validation.
+
+## React-Icons
+[React-Icons](https://react-icons.github.io/react-icons/) for icons.
 
 ## Breaking down `src`
 - app
